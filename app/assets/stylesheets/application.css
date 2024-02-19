@@ -13,3 +13,15 @@
  *= require_tree .
  *= require_self
  */
+.ask, .coach {
+  border-left: 2px solid grey;
+}
+
+.container {
+  width: 300px;
+  margin-left: 100px;
+}
+
+div{
+  background-color: aqua;
+}
